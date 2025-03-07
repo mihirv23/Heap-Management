@@ -81,7 +81,5 @@ gcc memory_allocator.c -o memory_allocator
 - Maintain a **free list with a doubly linked list** to optimize merging.
 - Add **debugging utilities** to visualize memory usage.
 
-## License
-This project is open-source and can be modified and distributed under the **MIT License**.
 
 
